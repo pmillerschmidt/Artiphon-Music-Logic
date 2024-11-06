@@ -1,0 +1,42 @@
+Determining if files humdrum.h exist failed with the following output:
+Change Dir: /Users/paulmiller-schmidt/Desktop/Artiphon-Music-Logic/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_bd020/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_bd020.dir/build.make CMakeFiles/cmTC_bd020.dir/build
+Building C object CMakeFiles/cmTC_bd020.dir/HAVE_HUMDRUM_H.c.o
+/usr/bin/clang   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_bd020.dir/HAVE_HUMDRUM_H.c.o   -c /Users/paulmiller-schmidt/Desktop/Artiphon-Music-Logic/build/CMakeFiles/CheckIncludeFiles/HAVE_HUMDRUM_H.c
+/Users/paulmiller-schmidt/Desktop/Artiphon-Music-Logic/build/CMakeFiles/CheckIncludeFiles/HAVE_HUMDRUM_H.c:2:10: fatal error: 'humdrum.h' file not found
+#include <humdrum.h>
+         ^~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_bd020.dir/HAVE_HUMDRUM_H.c.o] Error 1
+make: *** [cmTC_bd020/fast] Error 2
+
+
+Source:
+/* */
+#include <humdrum.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/io.h exist failed with the following output:
+Change Dir: /Users/paulmiller-schmidt/Desktop/Artiphon-Music-Logic/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_22484/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_22484.dir/build.make CMakeFiles/cmTC_22484.dir/build
+Building C object CMakeFiles/cmTC_22484.dir/HAVE_SYS_IO_H.c.o
+/usr/bin/clang   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_22484.dir/HAVE_SYS_IO_H.c.o   -c /Users/paulmiller-schmidt/Desktop/Artiphon-Music-Logic/build/CMakeFiles/CheckIncludeFiles/HAVE_SYS_IO_H.c
+/Users/paulmiller-schmidt/Desktop/Artiphon-Music-Logic/build/CMakeFiles/CheckIncludeFiles/HAVE_SYS_IO_H.c:2:10: fatal error: 'sys/io.h' file not found
+#include <sys/io.h>
+         ^~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_22484.dir/HAVE_SYS_IO_H.c.o] Error 1
+make: *** [cmTC_22484/fast] Error 2
+
+
+Source:
+/* */
+#include <sys/io.h>
+
+
+int main(void){return 0;}
+
