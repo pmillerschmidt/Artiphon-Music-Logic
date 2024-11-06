@@ -12,12 +12,16 @@ and user-specified hyper-parameters for precise melodic control. The program par
 
 ### Examples
 
-Here are a few examples of the generator creating top-line melodies. The drum/bass/chords are just for reference, the lead melody is the generated section. (mp4 for gh support)
+Here are a few examples of the generator creating top-line melodies. The hyperparameters are displayed in the title. The drum/bass/chords are just for reference, the lead melody is the generated section. (mp4 for github support)
 
-https://github.com/user-attachments/assets/f1a541f1-c079-42c0-b2dd-117ceea32305
 
-https://github.com/user-attachments/assets/e7aa5f13-45b7-4cd8-aeb6-128ef7e08b78
 
-https://github.com/user-attachments/assets/2b5cf8b2-19ac-4d47-87ce-f413f9572861
 
+https://github.com/user-attachments/assets/584fddd2-8bbf-4b21-aca3-8a96e66fbda7
+
+
+https://github.com/user-attachments/assets/ba0f4c35-9e25-40f2-a80e-588dee13046c
+
+
+https://github.com/user-attachments/assets/6c22362e-0645-4df1-bf5e-a509e91b17ed
 
